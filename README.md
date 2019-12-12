@@ -1,6 +1,6 @@
 # EphemeralContactsApp
 ## AUTHORS 
-* Javier Izquierdo Vera - http://javierizquierdovera.com
+* Miguel Díaz Cortés
 * Miguel Medina Ballesteros - http://maximetinu.com
 
 ## NOTES
